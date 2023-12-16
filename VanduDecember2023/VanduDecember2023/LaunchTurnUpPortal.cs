@@ -12,7 +12,6 @@ namespace VanduDecember2023
     {
         public static void LaunchAppandLogintoApplication()
         {
-
             //Open the Chrome browser
             IWebDriver driver = new ChromeDriver();
             //Maximize the browser
